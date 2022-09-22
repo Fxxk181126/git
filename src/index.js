@@ -1,1 +1,1 @@
-console.log('index, user2, , user1')
+console.log('index')
